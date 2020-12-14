@@ -1,7 +1,7 @@
 ## OVERVIEW
 
-![](./images/overveiw.png)
-
+![](./images/overview.png)
+`
 
 
 
