@@ -1,6 +1,6 @@
 ## OVERVIEW
 
-![](../images/overveiw.png)
+![](./images/overveiw.png)
 
 
 
