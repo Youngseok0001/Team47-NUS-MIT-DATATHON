@@ -81,7 +81,7 @@ def augument (flag) :
                 [transforms.ToPILImage(),
                  transforms.ToTensor(),
                  transforms.Resize((320,320)),
-                 transforms.Normalize(0.5,0.5),
+                 transforms.Normalize(0,1),
                  transforms.RandomHorizontalFlip(p=0.2),
                  transforms.RandomRotation((-5,5)),
                 ])
